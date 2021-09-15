@@ -1,0 +1,16 @@
+dash_core_components==1.0.0
+pandas==1.2.4
+plotly==4.14.3
+matplotlib==3.2.2
+dash==1.0.2
+dash_html_components==1.0.0
+selenium==3.141.0
+colorlover==0.2.1
+imbalanced_learn==0.7.0
+dash_table==4.0.2
+beautifulsoup4==4.10.0
+imblearn==0.0
+numpy==1.21.2
+scikit_learn==0.24.2
+tinydb==4.5.1
+lxml==4.6.3
